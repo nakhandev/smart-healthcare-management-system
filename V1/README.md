@@ -1,6 +1,29 @@
 # Smart Healthcare Management System (SHMS)
 
 A centralized web-based system for managing hospital operations including patient registration, doctor scheduling, digital prescriptions, and lab reports.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=black">
+    <img alt="Spring Boot Badge" src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-17+-E76F00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-17+-F89820?style=for-the-badge&logo=openjdk&logoColor=black">
+    <img alt="Java Badge" src="https://img.shields.io/badge/Java-17+-E76F00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-8.0-F29111?style=for-the-badge&logo=mysql&logoColor=black">
+    <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/REST-API-00599C?style=for-the-badge&logo=swagger&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/REST-API-008FCC?style=for-the-badge&logo=swagger&logoColor=black">
+    <img alt="REST API Badge" src="https://img.shields.io/badge/REST-API-00599C?style=for-the-badge&logo=swagger&logoColor=white">
+  </picture>
+</p>
+
 
 ## Features
 
@@ -41,7 +64,7 @@ Make sure to create the database and update the credentials in `src/main/resourc
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nakhandev/smart-healthcare-management-system
    cd shms
    ```
 
@@ -132,14 +155,44 @@ Run the tests using:
 mvn test
 ```
 
-## Contributing
+## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if necessary
-5. Submit a pull request
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues).
 
-## License
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+## 🧑‍💻 Author
 
-This project is licensed under the MIT License.
+**[MD Nawab Ali Khan](https://github.com/nakhandev)**  
+💼 *Java Backend Developer | Open Source Enthusiast*  
+
+<p align="center">
+  <a href="https://github.com/nakhandev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-nakhandev-181717?style=for-the-badge&logo=github&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-nakhandev-F0F0F0?style=for-the-badge&logo=github&logoColor=black">
+      <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-nakhandev-181717?style=for-the-badge&logo=github&logoColor=white">
+    </picture>
+  </a>
+  <a href="https://nakhandev.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌐%20Portfolio-nakhandev.github.io-0078D7?style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌐%20Portfolio-nakhandev.github.io-0A66C2?style=for-the-badge">
+      <img alt="Portfolio Link" src="https://img.shields.io/badge/🌐%20Portfolio-nakhandev.github.io-0078D7?style=for-the-badge">
+    </picture>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Built with ❤️ using <b>Java + Spring Boot</b> ✨</p>
+
+⭐ **If you found this project helpful, please give it a star!** ⭐
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
