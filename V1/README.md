@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=435&lines=Smart+Healthcare+System;Version+1.0.0+(V1)" alt="Typing SVG" />
+</p>
+
+
 # Smart Healthcare Management System (SHMS)
 
 A centralized web-based system for managing hospital operations including patient registration, doctor scheduling, digital prescriptions, and lab reports.
